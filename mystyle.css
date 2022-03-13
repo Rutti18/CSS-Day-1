@@ -1,0 +1,29 @@
+h1 {
+    background-color: rgb(11, 108, 236);
+    color: white;
+    text-align: center;
+    display: table;
+    }
+
+
+
+table, th, td {
+    border: groove;
+}
+
+th, td {
+    background-color: rgb(148, 204, 250);
+
+}
+
+table, th, td {
+    border-color: rgb(7, 109, 241);
+}
+
+th {
+    background-color: rgb(11, 108, 236);
+}
+
+th {
+    color: white;
+}
